@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegFreeTest", "RegFreeTest\RegFreeTest.csproj", "{4237D638-4E37-49C6-8999-BE498A47C4B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VB", "VB", "{BF2561C1-D536-461F-927B-794A1D103875}"
+	ProjectSection(SolutionItems) = preProject
+		VB\Form1.frm = VB\Form1.frm
+		VB\MSSCCPRJ.SCC = VB\MSSCCPRJ.SCC
+		VB\Project1.exe.manifest = VB\Project1.exe.manifest
+		VB\Project1.vbp = VB\Project1.vbp
+		VB\Project1.vbw = VB\Project1.vbw
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deploy", "Deploy", "{1E925F41-6269-4391-8937-FCF38A3BAB65}"
+	ProjectSection(SolutionItems) = preProject
+		DEPLOY\Project1.exe = DEPLOY\Project1.exe
+		DEPLOY\Project1.exe.manifest = DEPLOY\Project1.exe.manifest
+		DEPLOY\RegFreeTest.dll = DEPLOY\RegFreeTest.dll
+		DEPLOY\RegFreeTest.lib = DEPLOY\RegFreeTest.lib
+		DEPLOY\RegFreeTest.pdb = DEPLOY\RegFreeTest.pdb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4237D638-4E37-49C6-8999-BE498A47C4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4237D638-4E37-49C6-8999-BE498A47C4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4237D638-4E37-49C6-8999-BE498A47C4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4237D638-4E37-49C6-8999-BE498A47C4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

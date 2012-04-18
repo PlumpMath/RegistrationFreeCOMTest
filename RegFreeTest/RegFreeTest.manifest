@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1"  manifestVersion="1.0">
+    <assemblyIdentity
+                name="RegFreeTest"
+                version="1.0.0.0"
+                publicKeyToken="ae284eeb15a5137a"/>
+    <clrClass
+                clsid="{3039FD47-71BD-4F7B-8CC6-D81742CA29FD}"
+                progid="RegFreeTest.RegFreeTestClass"
+                threadingModel="Both"
+                name="RegFreeTest.RegFreeTestClass" 
+                runtimeVersion="v2.0.50727" >
+    </clrClass>
+    <file name="RegFreeTest.dll" />
+</assembly>

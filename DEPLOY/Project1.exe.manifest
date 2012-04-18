@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+            type = "win32"
+            name = "Project1"
+            version = "1.0.0.0" />
+<dependency>
+            <dependentAssembly>
+                        <assemblyIdentity
+                                    name="RegFreeTest"
+                                    version="1.0.0.0" 
+                                    publicKeyToken="ae284eeb15a5137a"/>
+            </dependentAssembly>
+</dependency>
+</assembly>
